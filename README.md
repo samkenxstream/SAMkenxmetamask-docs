@@ -1,8 +1,8 @@
-# Getting Started
+# MetaMask developer documentation
 
-1. Open project in terminal and run `yarn`
-2. Once install is finish run `yarn start` to run locally
-3. Open your browser and it should be hosted on `localhost:8080/`
+This is the MetaMask developer documentation repository.
+The documentation site is hosted at [docs.metamask.io](https://docs.metamask.io/wallet), and it's
+built using [Docusaurus](https://docusaurus.io/), a static site generator purpose-built for
+technical documentation.
 
-To enable Algolia DocSearch locally, run `cp .env-template .env` and populate
-the fields with the correct values.
+Learn how to [contribute to the documentation](CONTRIBUTING.md).
